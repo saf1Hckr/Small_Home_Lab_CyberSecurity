@@ -8,16 +8,16 @@ This project demonstrates a **network reconnaissance attack** using **Nmap** fro
 ## Network Topology
 <pre lang="markdown">
 
-                                                      [Router]
-                                                      /      \
-                                                     /        \
-                                                    /          \    
-                                                   /            \
-                                            [Kali Server]    [Ubuntu Server]  
-                                        [IP: 192.168.64.3]  [IP: 192.168.64.4]
-                                                |                   |
-                                               [---------------------]
-                                                      Nmap Scan
+                                      [Router]
+                                      /      \
+                                     /        \
+                                    /          \    
+                                   /            \
+                            [Kali Server]    [Ubuntu Server]  
+                        [IP: 192.168.64.3]  [IP: 192.168.64.4]
+                                |                   |
+                               [---------------------]
+                                      Nmap Scan
 </pre>
 
 ## Attacker (Kali Linux) Terminal Commands
