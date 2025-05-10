@@ -68,10 +68,7 @@ ip.addr == 192.168.64.3 && tcp
 ## Expected Results
 
 
-
-
-
-
+![Ubuntu_tcp_attack](https://github.com/saf1Hckr/Small_Home_Lab_CyberSecurity/blob/main/Ubuntu_tcp_response.png)
 
                                             Victim Ubuntu reply to Attacker Kali
 
